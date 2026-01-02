@@ -21,11 +21,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8ACB?style=for-the-badge&logo=vercel&logoColor=white)](https://205121034.vercel.app/)
 <!--[![Blogs](https://img.shields.io/badge/Blogs-FFA500?style=for-the-badge&logo=rss&logoColor=white)](#)
 -->
-[![Codeforces](https://img.shields.io/badge/Codeforces-E53935?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yaduvanshibikash1503/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yaduvanshibikash1998/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yaduvanshibikash)
+[![Codeforces](https://img.shields.io/badge/Codeforces-E53935?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bikash034/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bikash034/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bikash034/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bikash034/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.geeksforgeeks.org/profile/bikash034?tab=activity)
 
 
 
